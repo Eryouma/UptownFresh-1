@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5982f70d-7e91-4e6d-9c6d-12782565f717" name="Changes" comment="" />
+    <list default="true" id="5982f70d-7e91-4e6d-9c6d-12782565f717" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/slider-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uploads/slider-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/uploads/slider-2.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +16,15 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php 5.6.40" />
   <component name="ProjectId" id="2C3xbu9bcEOMH7uevY8fdQDkdhZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658045148287</updated>
       <workItem from="1658045152904" duration="11000" />
-      <workItem from="1658045290244" duration="934000" />
+      <workItem from="1658045290244" duration="2163000" />
     </task>
     <servers />
   </component>
