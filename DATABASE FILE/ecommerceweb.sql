@@ -1675,10 +1675,10 @@ CREATE TABLE `tbl_user` (
 
 INSERT INTO `tbl_user` (`id`, `full_name`, `email`, `phone`, `password`, `photo`, `role`, `status`) VALUES
 (1, 'Administrator', 'admin@mail.com', '7777777777', 'd00f5d5217896fb7fd601412cb890830', 'user-1.png', 'Super Admin', 'Active'),
-(2, 'Christine', 'christine@mail.com', '4444444444', '81dc9bdb52d04dc20036dbd8313ed055', 'user-13.jpg', 'Super Admin', 'Active'),
-(3, 'Francis', 'nzukifrancis20@mail.com', '0701723886', 'd00f5d5217896fb7fd601412cb890830', 'user-13.jpg', 'Super Admin', 'Active'),
-(4, 'Ernest', 'eryouma003@mail.com', '0795062462', 'd00f5d5217896fb7fd601412cb890830', 'user-13.jpg', 'Super Admin', 'Active'),
-(5, 'Tobia', 'mutukutobias98@mail.com', '0741877729', 'd00f5d5217896fb7fd601412cb890830', 'user-13.jpg', 'Super Admin', 'Active');
+(2, 'Christine', 'christine@gmail.com', '4444444444', '81dc9bdb52d04dc20036dbd8313ed055', 'user-13.jpg', 'Super Admin', 'Active'),
+(3, 'Francis', 'nzukifrancis20@gmail.com', '0701723886', 'd00f5d5217896fb7fd601412cb890830', 'user-13.jpg', 'Super Admin', 'Active'),
+(4, 'Ernest', 'eryouma003@gmail.com', '0795062462', 'd00f5d5217896fb7fd601412cb890830', 'user-13.jpg', 'Super Admin', 'Active'),
+(5, 'Tobia', 'mutukutobias98@gmail.com', '0741877729', 'd00f5d5217896fb7fd601412cb890830', 'user-13.jpg', 'Super Admin', 'Active');
 
 
 -- --------------------------------------------------------
