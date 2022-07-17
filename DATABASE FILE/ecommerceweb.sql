@@ -6,7 +6,8 @@
 -- Generation Time: Mar 20, 2022 at 07:39 PM
 -- Server version: 5.6.21
 -- PHP Version: 5.6.3
-
+drop database if exists ecommerceweb;
+create database ecommerceweb;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
@@ -25,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `tbl_color`
 --
-
+use ecommerceweb;
 CREATE TABLE `tbl_color` (
   `color_id` int(11) NOT NULL,
   `color_name` varchar(255) NOT NULL
